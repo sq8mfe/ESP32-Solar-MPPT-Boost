@@ -1,0 +1,9 @@
+Component,Value,Quantity,Link
+ESP32,DevKitC,1,https://botland.pl
+MOSFET,IRFP4668PbF,1,https://tme.eu
+Diode Schottky,SB1540,3,https://tme.eu
+Inductor,50uH/30A,1,https://tme.eu
+Capacitor input,1000uF/63V,1,https://tme.eu
+Capacitor output,470uF/100V,1,https://tme.eu
+Shunt resistor,0.01Ω/30W,1,https://tme.eu
+INA240,Current sensor,1,https://tme.eu
