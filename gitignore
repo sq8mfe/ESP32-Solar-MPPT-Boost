@@ -1,0 +1,12 @@
+# KiCad
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+
+# PlatformIO
+.pio/
+*.env
+
+# Arduino
+*.elf
+*.bin
